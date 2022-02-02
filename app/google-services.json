@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514696353794",
+    "project_id": "server-testing-notification",
+    "storage_bucket": "server-testing-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514696353794:android:6b5bb5bdf0dbd18df02f1b",
+        "android_client_info": {
+          "package_name": "com.nexsoft.pushnotiftestingservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514696353794-pamjg4fsgaki9millmtsqqbv006i8sft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBilh_C_51LlMvPqcbKDHxdt3SkBFbgQqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514696353794-pamjg4fsgaki9millmtsqqbv006i8sft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
